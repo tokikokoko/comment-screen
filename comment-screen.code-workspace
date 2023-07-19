@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+    {
+      "name": "screen",
+      "path": "./screen"
+    },
+    {
+      "name": "function",
+      "path": "./function"
+    },
+    {
+      "name": "workers",
+      "path": "./workers"
+    }
+	]
+}

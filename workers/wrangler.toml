@@ -1,0 +1,9 @@
+name = "comment"
+compatibility_date = "2023-01-01"
+
+[durable_objects]
+bindings = [{name = "SESSIONS", class_name = "Session"}]
+
+[[migrations]]
+tag = "v1" # Should be unique for each entry
+new_classes = ["Session"]
